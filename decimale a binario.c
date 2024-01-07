@@ -18,7 +18,7 @@ void codifica(int bin)
 
 int main(){
 
-    codifica(100000000);
+    codifica(35);
 
     return 0;
 }
