@@ -18,7 +18,7 @@ void codifica(int bin)
 
 int main(){
 
-    codifica(35);
+    codifica(35);  // HERE YOU HAVE TO PUT A NUMBER, IN EXAMPLE IS 35
 
     return 0;
 }
